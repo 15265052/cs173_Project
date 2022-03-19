@@ -29,7 +29,7 @@ def get_country_daily(country=None, use_code=False):
 
 
 def get_one_country_all_daily(country_code):
-    url = LEAFCODER_HOST + "/api/" + country_code + "/daily/"
+    url = LEAFCODER_HOST + "/api/countries/" + country_code + "/daily/"
     re = requests.get(url)
     return re.json()
 
@@ -65,6 +65,6 @@ def get_china_one_city_latest(city_name):
 
 
 def get_covid_related_news(page=1, num=10):
-    url = ISAACLIN_HOST + "/nCoV/api/news"
+    url = ISAACLIN_HOST + "/nCoV/api/news?page="+str(page)+"&num="+str(num)
     re = requests.get(url)
     return re.json()
