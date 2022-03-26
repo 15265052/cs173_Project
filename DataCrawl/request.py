@@ -65,6 +65,19 @@ def get_china_one_city_latest(city_name=""):
 
 
 def get_covid_related_news(page=1, num=10):
-    url = ISAACLIN_HOST + "/nCoV/api/news?page="+str(page)+"&num="+str(num)
+    url = ISAACLIN_HOST + "/nCoV/api/news?page=" + str(page) + "&num=" + str(num)
+    re = requests.get(url)
+    return re.json()
+
+
+def get_covid_tracks(local_id):
+    url = TIKTOK_HOST + "district_stat/?local_id=" + local_id
+    re = requests.get(url)
+    return re.json()
+
+
+def get_covid_confirmed_specific_info(poi):
+    x, y = poi.split(',')
+    url = TIKTOK_HOST + "poi/?poi=" + x +"%2C" + y
     re = requests.get(url)
     return re.json()
