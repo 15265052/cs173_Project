@@ -15,29 +15,30 @@ def get_global_all():
     return re.json()
 
 
-def get_country_daily(country=None, use_code=False):
-    # default get all country daily data
-    url = LEAFCODER_HOST + "/api/countries/daily/"
-    if country:
-        if use_code:
-            url += "?countryCodes=" + country
-        else:
-            url += "?countryNames=" + country
+# def get_country_daily(country=None, use_code=False):
+#     # default get all country daily data
+#     url = LEAFCODER_HOST + "/api/countries/daily/"
+#     if country:
+#         if use_code:
+#             url += "?countryCodes=" + country
+#         else:
+#             url += "?countryNames=" + country
+#
+#     re = requests.get(url)
+#     return re.json()
 
+
+def get_one_country_all_daily():
+    url = TENCENT_HOST + "list?modules=chinaDayList"
     re = requests.get(url)
     return re.json()
 
 
-def get_one_country_all_daily(country_code):
-    url = LEAFCODER_HOST + "/api/countries/" + country_code + "/daily/"
+def get_one_country_add_daily():
+    url = TENCENT_HOST + "list?modules=chinaDayAddList"
     re = requests.get(url)
     return re.json()
 
-
-def get_one_country_latest(country_code):
-    url = LEAFCODER_HOST + "/api/countries/" + country_code
-    re = requests.get(url)
-    return re.json()
 
 
 def get_one_country_all_provinces_daily(country_code):
@@ -46,14 +47,14 @@ def get_one_country_all_provinces_daily(country_code):
     return re.json()
 
 
-def get_one_country_one_province_daily(country_code, province_code):
-    url = LEAFCODER_HOST + "/api/provinces/" + country_code + "/" + province_code + "/daily/"
-    re = requests.get(url)
-    return re.json()
+# def get_one_country_one_province_daily(country_code, province_code):
+#     url = LEAFCODER_HOST + "/api/provinces/" + country_code + "/" + province_code + "/daily/"
+#     re = requests.get(url)
+#     return re.json()
 
 
-def get_one_country_one_province_latest(country_code, province_code=""):
-    url = LEAFCODER_HOST + "/api/provinces/" + country_code + "/" + province_code
+def get_one_country_one_province_latest():
+    url = TENCENT_HOST + "list?modules=provinceCompare"
     re = requests.get(url)
     return re.json()
 
