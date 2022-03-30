@@ -11,38 +11,51 @@ all_province_codes = ["AH", "AM", "BJ", "CQ", "FJ", "GD", "GS", "GX", "HB", "HB-
 
 data_dir_path = "RawData/"
 shanghai_local_id = "310000"
-city_dict = {"shanghai": "310000", "changchun": "220100", "xiameng": "350200", "tianjin": "120000", "qingdao": "370200"}
 
 
 def get_from_apis():
-    # get china daily data
-    china_daily_data = get_one_country_all_daily()['data']['chinaDayList']
-    file_name = "china_daily.json"
-    write_file(data_dir_path + file_name, china_daily_data)
+    # # get china daily data
+    # china_daily_data = get_one_country_all_daily()['data']['chinaDayList']
+    # file_name = "china_daily.json"
+    # write_file(data_dir_path + file_name, china_daily_data)
+    #
+    # china_daily_add_data = get_one_country_add_daily()['data']['chinaDayAddList']
+    # file_name = "china_add_daily.json"
+    # write_file(data_dir_path + file_name, china_daily_add_data)
+    #
+    # # get all provinces latest data
+    # china_all_provinces_latest_data = get_one_country_one_province_latest()['data']['provinceCompare']
+    # file_name = "china_all_provinces_latest_data.json"
+    # write_file(data_dir_path + file_name, china_all_provinces_latest_data)
 
-    china_daily_add_data = get_one_country_add_daily()['data']['chinaDayAddList']
-    file_name = "china_add_daily.json"
-    write_file(data_dir_path + file_name, china_daily_add_data)
-
-    # get all provinces latest data
-    china_all_provinces_latest_data = get_one_country_one_province_latest()['data']['provinceCompare']
-    file_name = "china_all_provinces_latest_data.json"
-    write_file(data_dir_path + file_name, china_all_provinces_latest_data)
-
+    city_codes = get_all_city_codes()
+    all_confirmed_specific_info = []
     # get all shanghai geo tracks data
-    for city in city_dict.keys():
-        all_geo_tracks_data = get_covid_tracks(city_dict[city])
-        file_name = city + "_all_geo_tracks_data.json"
-        write_file(data_dir_path + file_name, all_geo_tracks_data)
+    for city_code in city_codes:
+        all_geo_tracks_data = get_covid_tracks(city_code)
 
         # get all specific infos of shanghai confirmed
-        all_confirmed_specific_info = []
         for di in all_geo_tracks_data['data']['list']:
             if not di['local_id'] == 0:
-                for track in di['tracks']:
-                    all_confirmed_specific_info.append(get_covid_confirmed_specific_info(track['poi']))
-        file_name = city + "_all_confirmed_specific_info.json"
-        write_file(data_dir_path + file_name, all_confirmed_specific_info)
+                try:
+                    d = get_covid_confirmed_specific_info(di['poi'])['data']['data']
+                    if len(d['patient_list']) != 0:
+                        all_confirmed_specific_info.append(d)
+                except:
+                    continue
+            print('finished city: '+city_code)
+    file_name = "all_confirmed_specific_info.json"
+    write_file(data_dir_path + file_name, all_confirmed_specific_info)
+
+
+def get_all_city_codes():
+    city_codes = []
+    raw_list = get_all_city_id()['data']['list']
+    for province in raw_list:
+        for city in province['city_list']:
+            city_codes.append(str(city['city_code']))
+    return city_codes
 
 
 get_from_apis()
+

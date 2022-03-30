@@ -4,7 +4,7 @@ import json
 import pandas as pd
 
 path = "../DataCrawl/rawdata/china_daily.json"
-store_path = "C:/Users/duxiaoyuan/Desktop/OnWorking/CS131/Project/DataClean/processeddata/overall.csv"
+store_path = "./processeddata/overall.csv"
 with open(path, "r") as f:
     data = json.loads(f.read().replace("\'", "\""))
 raw_data = pd.DataFrame(data)

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/DataCrawl/rawdata/china_all_provinces_latest_data.json" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/DataCrawl/rawdata/china_daily.json" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/DataCrawl/rawdata/china_news.json" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/DataCrawl/rawdata/qingdao_all_geo_tracks_data.json" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/DataCrawl/rawdata/shanghai_all_confirmed_specific_info.json" charset="GBK" />
-    <file url="PROJECT" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataCrawl/RawData/china_all_provinces_latest_data.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataCrawl/RawData/china_daily.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataCrawl/RawData/china_news.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataCrawl/RawData/qingdao_all_geo_tracks_data.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataCrawl/RawData/shanghai_all_confirmed_specific_info.json" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>

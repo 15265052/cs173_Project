@@ -40,7 +40,6 @@ def get_one_country_add_daily():
     return re.json()
 
 
-
 def get_one_country_all_provinces_daily(country_code):
     url = LEAFCODER_HOST + "/api/provinces/" + country_code + "/daily/"
     re = requests.get(url)
@@ -71,14 +70,21 @@ def get_covid_related_news(page=1, num=10):
     return re.json()
 
 
-def get_covid_tracks(local_id):
-    url = TIKTOK_HOST + "district_stat/?local_id=" + local_id
+def get_covid_tracks(city_code):
+    url = TIKTOK_HOST + "track_list/?city_code=" + city_code
     re = requests.get(url)
     return re.json()
 
 
 def get_covid_confirmed_specific_info(poi):
     x, y = poi.split(',')
-    url = TIKTOK_HOST + "poi/?poi=" + x +"%2C" + y
+    url = TIKTOK_HOST + "poi/?poi=" + x + "%2C" + y
     re = requests.get(url)
     return re.json()
+
+
+def get_all_city_id():
+    url = TIKTOK_HOST + "poi_brief/?start_time=0"
+    re = requests.get(url)
+    return re.json()
+
