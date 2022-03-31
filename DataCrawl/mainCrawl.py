@@ -1,51 +1,33 @@
 # 综合所有数据源爬取需要的数据
 from request import *
 from common.utils.fileutils import *
+from concurrent.futures import ThreadPoolExecutor
+import threading
+from multiprocessing import Queue
+import time
 
 CHINA_CODE = "CHN"
 CHINA_NAME = "中国"
 
-all_province_codes = ["AH", "AM", "BJ", "CQ", "FJ", "GD", "GS", "GX", "HB", "HB-1", "HLJ", "HN", "HN-1", "HN-2", "JL"
-    , "JL", "JS", "JX", "LN", "NMG", "NX", "QH", "SC", "SD", "SH", "SX", "SX-1", "TJ", "TW", "XG", "XJ"
-    , "XZ", "YN", "ZJ"]
-
 data_dir_path = "RawData/"
 shanghai_local_id = "310000"
+queue = []
 
 
 def get_from_apis():
-    # # get china daily data
-    # china_daily_data = get_one_country_all_daily()['data']['chinaDayList']
-    # file_name = "china_daily.json"
-    # write_file(data_dir_path + file_name, china_daily_data)
-    #
-    # china_daily_add_data = get_one_country_add_daily()['data']['chinaDayAddList']
-    # file_name = "china_add_daily.json"
-    # write_file(data_dir_path + file_name, china_daily_add_data)
-    #
+    # get china daily data
+    china_daily_data = get_all_china_daily()
+    file_name = "china_daily_data.json"
+    open(data_dir_path + file_name, 'wb').write(china_daily_data.content)
+
     # # get all provinces latest data
-    # china_all_provinces_latest_data = get_one_country_one_province_latest()['data']['provinceCompare']
-    # file_name = "china_all_provinces_latest_data.json"
-    # write_file(data_dir_path + file_name, china_all_provinces_latest_data)
+    china_all_provinces_daily_data = request_all_provinces_daily(get_all_province_names())
+    file_name = "china_all_provinces_daily_data.json"
+    write_file(data_dir_path + file_name, china_all_provinces_daily_data)
 
-    city_codes = get_all_city_codes()
-    all_confirmed_specific_info = []
-    # get all shanghai geo tracks data
-    for city_code in city_codes:
-        all_geo_tracks_data = get_covid_tracks(city_code)
-
-        # get all specific infos of shanghai confirmed
-        for di in all_geo_tracks_data['data']['list']:
-            if not di['local_id'] == 0:
-                try:
-                    d = get_covid_confirmed_specific_info(di['poi'])['data']['data']
-                    if len(d['patient_list']) != 0:
-                        all_confirmed_specific_info.append(d)
-                except:
-                    continue
-            print('finished city: '+city_code)
+    request_all_confirmed_specific_info(get_all_city_codes())
     file_name = "all_confirmed_specific_info.json"
-    write_file(data_dir_path + file_name, all_confirmed_specific_info)
+    write_file(data_dir_path + file_name, queue)
 
 
 def get_all_city_codes():
@@ -57,5 +39,50 @@ def get_all_city_codes():
     return city_codes
 
 
-get_from_apis()
+def request_all_confirmed_specific_info(city_codes):
+    pool = ThreadPoolExecutor(max_workers=8)
+    global task_sum
+    task_sum = 0
 
+    def add_to_queue(future):
+        # callback
+        global task_sum
+        task_sum -= 1
+        print("done a task, now task sum: " + str(task_sum))
+        if future.result() is None:
+            return
+        d = future.result()['data']['data']
+        if len(d['patient_list']) != 0:
+            queue.append(d)
+
+    for city_code in city_codes:
+        print("dealing with city: " + city_code)
+        all_geo_tracks_data = get_covid_tracks(city_code)
+        for di in all_geo_tracks_data['data']['list']:
+            if not (di['local_id'] == 0 or di['poi'] == ""):
+                try:
+                    task_sum += 1
+                    future = pool.submit(get_covid_confirmed_specific_info, di['poi'])
+                    future.add_done_callback(add_to_queue)
+                except:
+                    continue
+        time.sleep(0.1)
+        print("task sum: " + str(task_sum))
+    pool.shutdown(wait=False)
+
+
+def request_all_provinces_daily(province_names):
+    province_data = []
+    for province_name in province_names:
+        print("dealing with name: " + province_name)
+        province_data.append(get_one_country_one_province_daily(province_name)['data'])
+    return province_data
+
+
+
+def get_all_province_names():
+    province_dict = get_one_country_one_province_latest()
+    return province_dict['data']['provinceCompare'].keys()
+
+
+get_from_apis()
