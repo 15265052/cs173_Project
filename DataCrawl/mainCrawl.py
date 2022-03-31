@@ -1,5 +1,7 @@
 # 综合所有数据源爬取需要的数据
 from request import *
+import common
+
 from common.utils.fileutils import *
 
 CHINA_CODE = "CHN"
@@ -32,7 +34,7 @@ def get_from_apis():
     # get all shanghai geo tracks data
     for city in city_dict.keys():
         all_geo_tracks_data = get_covid_tracks(city_dict[city])
-        file_name = city + "_all_geo_tracks_data.json"
+        file_name = city + "_all_ego_tracks_data.json"
         write_file(data_dir_path + file_name, all_geo_tracks_data)
 
         # get all specific infos of shanghai confirmed

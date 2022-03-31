@@ -1,0 +1,2732 @@
+[
+    {'data': {'data': {'poi_name': '杨柳青镇', 'city': '天津市', 'area_name': '西青区', 'township': '杨柳青镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62412329c7f4333777e764e2', 'base_info': '女，32岁', 'extra_info': '', 'index': 922, 'sort_time': 1648349602, 'track_list': [
+                            {'poi_time_text': '3月26日', 'poi_text': '居住地为天津市西青区杨柳青镇。'
+                            },
+                            {'poi_time_text': '3月27日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '624122eec7f4333777e764df', 'base_info': '男，66岁', 'extra_info': '', 'index': 918, 'sort_time': 1648349542, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市西青区杨柳青镇。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月27日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62400bf304abe458a4b57c71', 'base_info': '女，84岁', 'extra_info': '', 'index': 911, 'sort_time': 1648278131, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市西青区杨柳青镇。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435101020803023111261077', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '西营门街', 'city': '天津市', 'area_name': '西青区', 'township': '西营门街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6241230bc7f4333777e764e0', 'base_info': '女，14岁', 'extra_info': '', 'index': 920, 'sort_time': 1648349573, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月27日', 'poi_text': '诊断为为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee8ce04abe458a4b57a73', 'base_info': '男，55岁', 'extra_info': '', 'index': 888, 'sort_time': 1648203597, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62382359a74a81bad82907f6', 'base_info': '男，75岁', 'extra_info': '', 'index': 804, 'sort_time': 1647759824, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623581e7bf037cdddf8ea5ec', 'base_info': '女，74岁', 'extra_info': '', 'index': 776, 'sort_time': 1647587436, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623581a6bf037cdddf8ea5e7', 'base_info': '男，86岁', 'extra_info': '', 'index': 771, 'sort_time': 1647587366, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '诊断为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358153bf037cdddf8ea5e1', 'base_info': '男，68岁', 'extra_info': '', 'index': 765, 'sort_time': 1647587287, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580ecbf037cdddf8ea5d8', 'base_info': '女，3岁', 'extra_info': '', 'index': 757, 'sort_time': 1647587184, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580dfbf037cdddf8ea5d7', 'base_info': '男，37岁', 'extra_info': '', 'index': 756, 'sort_time': 1647587171, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349684a74a81bad8290004', 'base_info': '男，69岁', 'extra_info': '', 'index': 743, 'sort_time': 1647527168, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623493b8a74a81bad828ffea', 'base_info': '男，35岁', 'extra_info': '', 'index': 704, 'sort_time': 1647526451, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623492ac51fcc4284c62b13f', 'base_info': '女，67岁', 'extra_info': '', 'index': 703, 'sort_time': 1647526183, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234926e51fcc4284c62b13c', 'base_info': '男，68岁', 'extra_info': '', 'index': 700, 'sort_time': 1647526117, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a05986e515c8a272a944', 'base_info': '女，39岁', 'extra_info': '', 'index': 651, 'sort_time': 1647333078, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a014c4ec824d5a0a3021', 'base_info': '女，64岁', 'extra_info': '', 'index': 645, 'sort_time': 1647333006, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a00786e515c8a272a943', 'base_info': '女，39岁', 'extra_info': '', 'index': 644, 'sort_time': 1647332996, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319fd786e515c8a272a941', 'base_info': '女，64岁', 'extra_info': '', 'index': 640, 'sort_time': 1647332948, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319fa986e515c8a272a93f', 'base_info': '女，47岁', 'extra_info': '', 'index': 636, 'sort_time': 1647332902, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ec986e515c8a272a935', 'base_info': '女，69岁', 'extra_info': '', 'index': 619, 'sort_time': 1647332678, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ebec4ec824d5a0a3015', 'base_info': '女，68岁', 'extra_info': '', 'index': 618, 'sort_time': 1647332667, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319eb386e515c8a272a934', 'base_info': '女，14岁', 'extra_info': '', 'index': 617, 'sort_time': 1647332656, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ea7c4ec824d5a0a3014', 'base_info': '男，9岁', 'extra_info': '', 'index': 616, 'sort_time': 1647332643, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8908beee42ae1c0b79e', 'base_info': '男，83岁', 'extra_info': '', 'index': 597, 'sort_time': 1647252873, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8808beee42ae1c0b79d', 'base_info': '女，78岁', 'extra_info': '', 'index': 596, 'sort_time': 1647252857, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2188beee42ae1c0b7ed', 'base_info': '男，65岁', 'extra_info': '', 'index': 547, 'sort_time': 1647177107, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1f68beee42ae1c0b7ec', 'base_info': '男，12岁', 'extra_info': '', 'index': 546, 'sort_time': 1647177074, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1a48beee42ae1c0b7e8', 'base_info': '男，59岁', 'extra_info': '', 'index': 542, 'sort_time': 1647176990, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc92ac4ec824d5a0a243b', 'base_info': '女，46岁', 'extra_info': '', 'index': 517, 'sort_time': 1647081382, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系隔离管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc8f386e515c8a272a0f9', 'base_info': '女，66岁', 'extra_info': '', 'index': 513, 'sort_time': 1647081318, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系隔离管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3d2186e515c8a2729d68', 'base_info': '男，70岁', 'extra_info': '', 'index': 502, 'sort_time': 1646979996, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3b2e86e515c8a2729d59', 'base_info': '男，28岁', 'extra_info': '', 'index': 480, 'sort_time': 1646979497, 'track_list': [
+                            {'poi_time_text': '3月9日', 'poi_text': '居住地为天津市西青区西营门街。'
+                            },
+                            {'poi_time_text': '3月10日', 'poi_text': '系集中隔离点筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243510102121860230725B8AA', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '中北镇', 'city': '天津市', 'area_name': '西青区', 'township': '中北镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62400b6404abe458a4b57c6f', 'base_info': '男，70岁', 'extra_info': '', 'index': 906, 'sort_time': 1648277986, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市西青区中北镇。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349677a74a81bad8290003', 'base_info': '男，54岁', 'extra_info': '', 'index': 742, 'sort_time': 1647527150, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区中北镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349660a74a81bad8290002', 'base_info': '男，28岁', 'extra_info': '', 'index': 741, 'sort_time': 1647527131, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区中北镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3cab86e515c8a2729d66', 'base_info': '女，44岁', 'extra_info': '', 'index': 498, 'sort_time': 1646979801, 'track_list': [
+                            {'poi_time_text': '3月9日', 'poi_text': '居住地为天津市西青区中北镇。'
+                            },
+                            {'poi_time_text': '3月10日', 'poi_text': '系集中隔离点筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435201020807422510257F19', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '精武镇', 'city': '天津市', 'area_name': '西青区', 'township': '精武镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6235815ebf037cdddf8ea5e2', 'base_info': '男，43岁', 'extra_info': '', 'index': 766, 'sort_time': 1647587299, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623496ce51fcc4284c62b185', 'base_info': '男，51岁', 'extra_info': '', 'index': 749, 'sort_time': 1647527242, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234969151fcc4284c62b180', 'base_info': '男，5岁', 'extra_info': '', 'index': 744, 'sort_time': 1647527180, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495dc51fcc4284c62b14b', 'base_info': '男，39岁', 'extra_info': '', 'index': 732, 'sort_time': 1647526993, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2258beee42ae1c0b7ee', 'base_info': '男，51岁', 'extra_info': '', 'index': 548, 'sort_time': 1647177119, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc958c4ec824d5a0a243f', 'base_info': '女，29岁', 'extra_info': '', 'index': 521, 'sort_time': 1647081428, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc921c4ec824d5a0a243a', 'base_info': '男，44岁', 'extra_info': '', 'index': 516, 'sort_time': 1647081374, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系隔离管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3b0586e515c8a2729d56', 'base_info': '女，24岁', 'extra_info': '', 'index': 477, 'sort_time': 1646893055, 'track_list': [
+                            {'poi_time_text': '3月9日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月10日', 'poi_text': '系居家隔离人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3af6c4ec824d5a0a20f2', 'base_info': '男，26岁', 'extra_info': '', 'index': 476, 'sort_time': 1646893039, 'track_list': [
+                            {'poi_time_text': '3月9日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月10日', 'poi_text': '系居家隔离人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3a3286e515c8a2729d52', 'base_info': '女，52岁', 'extra_info': '', 'index': 471, 'sort_time': 1646892843, 'track_list': [
+                            {'poi_time_text': '3月9日', 'poi_text': '居住地为天津市西青区精武镇。'
+                            },
+                            {'poi_time_text': '3月10日', 'poi_text': '系居家隔离人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435201020810208022254480', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '静海镇', 'city': '天津市', 'area_name': '静海区', 'township': '静海镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62400b7904abe458a4b57c70', 'base_info': '男，51岁', 'extra_info': '', 'index': 907, 'sort_time': 1648278009, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市静海区静海镇。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435201020801622506257CF6', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '月牙河街', 'city': '天津市', 'area_name': '河北区', 'township': '月牙河街道', 'track_type': 2, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62400bdec7f4333777e761ee', 'base_info': '男，65岁', 'extra_info': '', 'index': 910, 'sort_time': 1648278111, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62400bb7c7f4333777e761ed', 'base_info': '女，28岁', 'extra_info': '', 'index': 909, 'sort_time': 1648278063, 'track_list': [
+                            {'poi_time_text': '3月25日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62400b06c7f4333777e761eb', 'base_info': '男，89岁', 'extra_info': '', 'index': 904, 'sort_time': 1648277892, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee92404abe458a4b57a76', 'base_info': '女，37岁', 'extra_info': '', 'index': 893, 'sort_time': 1648203685, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee900c7f4333777e76045', 'base_info': '女，14岁', 'extra_info': '', 'index': 891, 'sort_time': 1648203649, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee8f1c7f4333777e76044', 'base_info': '女，38岁', 'extra_info': '', 'index': 890, 'sort_time': 1648203634, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee8be04abe458a4b57a72', 'base_info': '男，38岁', 'extra_info': '', 'index': 887, 'sort_time': 1648203583, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee8ab04abe458a4b57a71', 'base_info': '男，7岁', 'extra_info': '', 'index': 886, 'sort_time': 1648203563, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee89804abe458a4b57a70', 'base_info': '女，14岁', 'extra_info': '', 'index': 885, 'sort_time': 1648203542, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee880c7f4333777e76042', 'base_info': '女，18岁', 'extra_info': '', 'index': 884, 'sort_time': 1648203519, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee81304abe458a4b57a6e', 'base_info': '男，66岁', 'extra_info': '', 'index': 879, 'sort_time': 1648117010, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee80204abe458a4b57a6d', 'base_info': '女，29岁', 'extra_info': '', 'index': 878, 'sort_time': 1648116991, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee7ee04abe458a4b57a6c', 'base_info': '女，35岁', 'extra_info': '', 'index': 877, 'sort_time': 1648116967, 'track_list': [
+                            {'poi_time_text': '3月22日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月23日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee7d904abe458a4b57a6b', 'base_info': '男，37岁', 'extra_info': '', 'index': 876, 'sort_time': 1648116949, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee7c4c7f4333777e7603e', 'base_info': '女，61岁', 'extra_info': '', 'index': 875, 'sort_time': 1648116928, 'track_list': [
+                            {'poi_time_text': '3月23日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ee63304abe458a4b57a67', 'base_info': '男，9岁', 'extra_info': '', 'index': 868, 'sort_time': 1648116531, 'track_list': [
+                            {'poi_time_text': '3月22日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月23日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月24日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623ac9e451fcc4284c62c6e2', 'base_info': '男，3岁', 'extra_info': '', 'index': 820, 'sort_time': 1647933534, 'track_list': [
+                            {'poi_time_text': '3月20日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月22日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62382336a74a81bad82907f3', 'base_info': '男，59岁', 'extra_info': '', 'index': 801, 'sort_time': 1647759788, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62382327a74a81bad82907f2', 'base_info': '男，22岁', 'extra_info': '', 'index': 800, 'sort_time': 1647759773, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62382319a74a81bad82907f1', 'base_info': '男，47岁', 'extra_info': '', 'index': 799, 'sort_time': 1647759759, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6238230b51fcc4284c62bdd5', 'base_info': '女，59岁', 'extra_info': '', 'index': 798, 'sort_time': 1647759746, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6238230051fcc4284c62bdd4', 'base_info': '女，43岁', 'extra_info': '', 'index': 797, 'sort_time': 1647759733, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市河北区月牙河街。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435201021219604326259D8F', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '铁东路街', 'city': '天津市', 'area_name': '河北区', 'township': '铁东路街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6235813abf037cdddf8ea5de', 'base_info': '男，6岁', 'extra_info': '', 'index': 763, 'sort_time': 1647587262, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市河北区铁东路街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e34c4ec824d5a0a300d', 'base_info': '女，35岁', 'extra_info': '', 'index': 609, 'sort_time': 1647332525, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市河北区铁东路街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '20220328224353010208016202052677E9', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '石各庄镇', 'city': '天津市', 'area_name': '武清区', 'township': '石各庄镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62395350a74a81bad8290c4b', 'base_info': '', 'extra_info': '', 'index': 812, 'sort_time': 1647837636, 'track_list': [
+                            {'poi_time_text': '3月20日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6235817cbf037cdddf8ea5e4', 'base_info': '女，4岁', 'extra_info': '', 'index': 768, 'sort_time': 1647587328, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358107bf037cdddf8ea5da', 'base_info': '男，10岁', 'extra_info': '', 'index': 759, 'sort_time': 1647587212, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580fabf037cdddf8ea5d9', 'base_info': '男，35岁', 'extra_info': '', 'index': 758, 'sort_time': 1647587198, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234961951fcc4284c62b17c', 'base_info': '男，37岁', 'extra_info': '', 'index': 736, 'sort_time': 1647527060, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349604a74a81bad828ffff', 'base_info': '女，32岁', 'extra_info': '', 'index': 735, 'sort_time': 1647527040, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623493c7a74a81bad828ffeb', 'base_info': '女，3岁', 'extra_info': '', 'index': 705, 'sort_time': 1647526466, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2ef8beee42ae1c0b7fd', 'base_info': '女，42岁', 'extra_info': '', 'index': 563, 'sort_time': 1647177323, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e16f8beee42ae1c0b7e3', 'base_info': '男，44岁', 'extra_info': '', 'index': 538, 'sort_time': 1647176938, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e0de8beee42ae1c0b7da', 'base_info': '男，48岁', 'extra_info': '', 'index': 531, 'sort_time': 1647176786, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e0b98beee42ae1c0b7d8', 'base_info': '女，20岁', 'extra_info': '', 'index': 529, 'sort_time': 1647176754, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区石各庄镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243530102091590392525BAF5', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '陈咀镇', 'city': '天津市', 'area_name': '武清区', 'township': '陈咀镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62370145a74a81bad8290558', 'base_info': '男，49岁', 'extra_info': '', 'index': 779, 'sort_time': 1647685565, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6237012d51fcc4284c62b7f1', 'base_info': '女，14岁', 'extra_info': '', 'index': 778, 'sort_time': 1647685540, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623581b2bf037cdddf8ea5e8', 'base_info': '女，8岁', 'extra_info': '', 'index': 772, 'sort_time': 1647587383, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495f851fcc4284c62b14d', 'base_info': '女，53岁', 'extra_info': '', 'index': 734, 'sort_time': 1647527027, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495eb51fcc4284c62b14c', 'base_info': '男，56岁', 'extra_info': '', 'index': 733, 'sort_time': 1647527014, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234959da74a81bad828fffb', 'base_info': '女，16岁', 'extra_info': '', 'index': 728, 'sort_time': 1647526937, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234925ca74a81bad828ffe6', 'base_info': '女，53岁', 'extra_info': '', 'index': 699, 'sort_time': 1647526103, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a06ec4ec824d5a0a3028', 'base_info': '男，31岁', 'extra_info': '', 'index': 653, 'sort_time': 1647333099, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a06386e515c8a272a945', 'base_info': '男，32岁', 'extra_info': '', 'index': 652, 'sort_time': 1647333088, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f4286e515c8a272a93a', 'base_info': '女，42岁', 'extra_info': '', 'index': 629, 'sort_time': 1647332799, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7e28beee42ae1c0b790', 'base_info': '女，29岁', 'extra_info': '', 'index': 585, 'sort_time': 1647252700, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7138beee42ae1c0b781', 'base_info': '女，16岁', 'extra_info': '', 'index': 571, 'sort_time': 1647252493, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7028beee42ae1c0b780', 'base_info': '男，41岁', 'extra_info': '', 'index': 570, 'sort_time': 1647252475, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '核酸采集，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b6f28beee42ae1c0b77e', 'base_info': '女，71岁', 'extra_info': '', 'index': 569, 'sort_time': 1647252459, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b6da8beee42ae1c0b77c', 'base_info': '女，11岁', 'extra_info': '', 'index': 568, 'sort_time': 1647252435, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b6ca8beee42ae1c0b77b', 'base_info': '男，16岁', 'extra_info': '', 'index': 567, 'sort_time': 1647252419, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '核酸采集，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2e48beee42ae1c0b7fc', 'base_info': '男，29岁', 'extra_info': '', 'index': 562, 'sort_time': 1647177310, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区陈咀镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243530102120400330A26BCD0', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '汊沽港镇', 'city': '天津市', 'area_name': '武清区', 'township': '武清科技谷', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623581bebf037cdddf8ea5e9', 'base_info': '女，63岁', 'extra_info': '', 'index': 773, 'sort_time': 1647587395, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358188bf037cdddf8ea5e5', 'base_info': '女，24岁', 'extra_info': '', 'index': 769, 'sort_time': 1647587340, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6235816dbf037cdddf8ea5e3', 'base_info': '男，67岁', 'extra_info': '', 'index': 767, 'sort_time': 1647587312, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358121bf037cdddf8ea5dc', 'base_info': '女，37岁', 'extra_info': '', 'index': 761, 'sort_time': 1647587237, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358115bf037cdddf8ea5db', 'base_info': '女，57岁', 'extra_info': '', 'index': 760, 'sort_time': 1647587225, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623496c251fcc4284c62b184', 'base_info': '男，11岁', 'extra_info': '', 'index': 748, 'sort_time': 1647527229, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性，为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234963351fcc4284c62b17d', 'base_info': '女，39岁', 'extra_info': '', 'index': 738, 'sort_time': 1647527085, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349626a74a81bad8290000', 'base_info': '男，10岁', 'extra_info': '', 'index': 737, 'sort_time': 1647527074, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495c951fcc4284c62b14a', 'base_info': '女，80岁', 'extra_info': '', 'index': 731, 'sort_time': 1647526980, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495b0a74a81bad828fffc', 'base_info': '女，47岁', 'extra_info': '', 'index': 729, 'sort_time': 1647526956, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349591a74a81bad828fffa', 'base_info': '女，31岁', 'extra_info': '', 'index': 727, 'sort_time': 1647526923, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234941ea74a81bad828ffef', 'base_info': '男，53岁', 'extra_info': '', 'index': 711, 'sort_time': 1647526552, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62349410a74a81bad828ffee', 'base_info': '男，52岁', 'extra_info': '', 'index': 710, 'sort_time': 1647526538, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623493d451fcc4284c62b140', 'base_info': '女，4岁', 'extra_info': '', 'index': 706, 'sort_time': 1647526479, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234928ba74a81bad828ffe8', 'base_info': '女，67岁', 'extra_info': '', 'index': 702, 'sort_time': 1647526148, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234927ba74a81bad828ffe7', 'base_info': '女，24岁', 'extra_info': '', 'index': 701, 'sort_time': 1647526135, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6234925051fcc4284c62b13b', 'base_info': '女，43岁', 'extra_info': '', 'index': 698, 'sort_time': 1647526082, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a07ac4ec824d5a0a3029', 'base_info': '男，39岁', 'extra_info': '', 'index': 654, 'sort_time': 1647333111, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a02ac4ec824d5a0a3023', 'base_info': '男，6岁', 'extra_info': '', 'index': 647, 'sort_time': 1647333031, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a01fc4ec824d5a0a3022', 'base_info': '女，51岁', 'extra_info': '', 'index': 646, 'sort_time': 1647333020, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f9e86e515c8a272a93e', 'base_info': '女，37岁', 'extra_info': '', 'index': 635, 'sort_time': 1647332890, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f91c4ec824d5a0a301c', 'base_info': '男，33岁', 'extra_info': '', 'index': 634, 'sort_time': 1647332878, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f8686e515c8a272a93d', 'base_info': '男，9岁', 'extra_info': '', 'index': 633, 'sort_time': 1647332868, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f7c86e515c8a272a93c', 'base_info': '男，16岁', 'extra_info': '', 'index': 632, 'sort_time': 1647332857, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f5886e515c8a272a93b', 'base_info': '女，31岁', 'extra_info': '', 'index': 631, 'sort_time': 1647332821, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f4dc4ec824d5a0a301b', 'base_info': '男，28岁', 'extra_info': '', 'index': 630, 'sort_time': 1647332811, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f38c4ec824d5a0a301a', 'base_info': '女，35岁', 'extra_info': '', 'index': 628, 'sort_time': 1647332788, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f2c86e515c8a272a939', 'base_info': '女，51岁', 'extra_info': '', 'index': 627, 'sort_time': 1647332777, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f22c4ec824d5a0a3019', 'base_info': '女，77岁', 'extra_info': '', 'index': 626, 'sort_time': 1647332766, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f1586e515c8a272a938', 'base_info': '女，76岁', 'extra_info': '', 'index': 625, 'sort_time': 1647332754, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319f0586e515c8a272a937', 'base_info': '男，10岁', 'extra_info': '', 'index': 624, 'sort_time': 1647332738, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ef9c4ec824d5a0a3018', 'base_info': '女，29岁', 'extra_info': '', 'index': 623, 'sort_time': 1647332726, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319eefc4ec824d5a0a3017', 'base_info': '女，34岁', 'extra_info': '', 'index': 622, 'sort_time': 1647332716, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ee086e515c8a272a936', 'base_info': '女，88岁', 'extra_info': '', 'index': 621, 'sort_time': 1647332701, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ed5c4ec824d5a0a3016', 'base_info': '女，7岁', 'extra_info': '', 'index': 620, 'sort_time': 1647332690, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e53c4ec824d5a0a300e', 'base_info': '女，10岁', 'extra_info': '', 'index': 611, 'sort_time': 1647332557, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e4186e515c8a272a92c', 'base_info': '女，58岁', 'extra_info': '', 'index': 610, 'sort_time': 1647332541, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e20c4ec824d5a0a300c', 'base_info': '女，34岁', 'extra_info': '', 'index': 608, 'sort_time': 1647332508, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e0286e515c8a272a92b', 'base_info': '女，44岁', 'extra_info': '', 'index': 607, 'sort_time': 1647332474, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b9008beee42ae1c0b7a7', 'base_info': '女，28岁', 'extra_info': '', 'index': 605, 'sort_time': 1647252986, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8718beee42ae1c0b79c', 'base_info': '女，34岁', 'extra_info': '', 'index': 595, 'sort_time': 1647252844, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8638beee42ae1c0b79b', 'base_info': '男，36岁', 'extra_info': '', 'index': 594, 'sort_time': 1647252831, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8588beee42ae1c0b79a', 'base_info': '男，48岁', 'extra_info': '', 'index': 593, 'sort_time': 1647252817, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8498beee42ae1c0b799', 'base_info': '女，4岁', 'extra_info': '', 'index': 592, 'sort_time': 1647252803, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b83c8beee42ae1c0b798', 'base_info': '男，29岁', 'extra_info': '', 'index': 591, 'sort_time': 1647252787, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b82a8beee42ae1c0b796', 'base_info': '男，45岁', 'extra_info': '', 'index': 590, 'sort_time': 1647252773, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b81e8beee42ae1c0b795', 'base_info': '女，26岁', 'extra_info': '', 'index': 589, 'sort_time': 1647252761, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8118beee42ae1c0b794', 'base_info': '女，41岁', 'extra_info': '', 'index': 588, 'sort_time': 1647252748, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8048beee42ae1c0b793', 'base_info': '男，32岁', 'extra_info': '', 'index': 587, 'sort_time': 1647252736, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7f68beee42ae1c0b792', 'base_info': '女，47岁', 'extra_info': '', 'index': 586, 'sort_time': 1647252719, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7d48beee42ae1c0b78f', 'base_info': '女，35岁', 'extra_info': '', 'index': 584, 'sort_time': 1647252685, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7c48beee42ae1c0b78e', 'base_info': '男，34岁', 'extra_info': '', 'index': 583, 'sort_time': 1647252671, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7b58beee42ae1c0b78c', 'base_info': '男，56岁', 'extra_info': '', 'index': 582, 'sort_time': 1647252653, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7a58beee42ae1c0b78b', 'base_info': '男，32岁', 'extra_info': '', 'index': 581, 'sort_time': 1647252639, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7238beee42ae1c0b782', 'base_info': '女，34岁', 'extra_info': '', 'index': 572, 'sort_time': 1647252508, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e28b8beee42ae1c0b7f5', 'base_info': '男，56岁', 'extra_info': '', 'index': 555, 'sort_time': 1647177223, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2718beee42ae1c0b7f3', 'base_info': '女，39岁', 'extra_info': '', 'index': 553, 'sort_time': 1647177196, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2348beee42ae1c0b7ef', 'base_info': '女，57岁', 'extra_info': '', 'index': 549, 'sort_time': 1647177133, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1868beee42ae1c0b7e6', 'base_info': '女，49岁', 'extra_info': '', 'index': 540, 'sort_time': 1647176962, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e17a8beee42ae1c0b7e5', 'base_info': '女，42岁', 'extra_info': '', 'index': 539, 'sort_time': 1647176951, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1608beee42ae1c0b7e2', 'base_info': '男，46岁', 'extra_info': '', 'index': 537, 'sort_time': 1647176924, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1448beee42ae1c0b7df', 'base_info': '女，56岁', 'extra_info': '', 'index': 535, 'sort_time': 1647176892, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e12c8beee42ae1c0b7de', 'base_info': '女，46岁', 'extra_info': '', 'index': 534, 'sort_time': 1647176871, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e11a8beee42ae1c0b7dc', 'base_info': '女，30岁', 'extra_info': '', 'index': 533, 'sort_time': 1647176853, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e10d8beee42ae1c0b7db', 'base_info': '男，31岁', 'extra_info': '', 'index': 532, 'sort_time': 1647176840, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc98ac4ec824d5a0a2442', 'base_info': '男，71岁', 'extra_info': '', 'index': 525, 'sort_time': 1647081477, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622dc98086e515c8a272a0fd', 'base_info': '男，80岁', 'extra_info': '', 'index': 524, 'sort_time': 1647081465, 'track_list': [
+                            {'poi_time_text': '3月11日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月12日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3d8bc4ec824d5a0a2117', 'base_info': '男，33岁', 'extra_info': '', 'index': 512, 'sort_time': 1646980103, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市武清区汊沽港镇。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系重点人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243530102111792081825D3A9', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '梅厂镇', 'city': '天津市', 'area_name': '武清区', 'township': '梅厂镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623581cebf037cdddf8ea5ea', 'base_info': '男，25岁', 'extra_info': '', 'index': 774, 'sort_time': 1647587410, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市武清区梅厂镇。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243540102080351961E269E13', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '滨海新区保税区', 'city': '天津市', 'area_name': '滨海新区', 'township': '新港街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623ac9bea74a81bad8290fe6', 'base_info': '男，41岁', 'extra_info': '', 'index': 818, 'sort_time': 1647933503, 'track_list': [
+                            {'poi_time_text': '3月20日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月22日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580c6bf037cdddf8ea5d5', 'base_info': '女，28岁', 'extra_info': '', 'index': 754, 'sort_time': 1647587147, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623495bda74a81bad828fffd', 'base_info': '男，31岁', 'extra_info': '', 'index': 730, 'sort_time': 1647526967, 'track_list': [
+                            {'poi_time_text': '3月15日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月16日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '为新冠病毒确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e5fc4ec824d5a0a300f', 'base_info': '男，20岁', 'extra_info': '', 'index': 612, 'sort_time': 1647332571, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7548beee42ae1c0b785', 'base_info': '男，55岁', 'extra_info': '', 'index': 575, 'sort_time': 1647252559, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e27e8beee42ae1c0b7f4', 'base_info': '男，61岁', 'extra_info': '', 'index': 554, 'sort_time': 1647177210, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '621d9316ac9ff3f204e0ac85', 'base_info': '女，19岁', 'extra_info': '', 'index': 415, 'sort_time': 1646018960, 'track_list': [
+                            {'poi_time_text': '2月25日', 'poi_text': '居住地为天津市滨海新区保税区。'
+                            },
+                            {'poi_time_text': '2月26日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠病毒无症状感染者。'
+                            },
+                            {'poi_time_text': '2月28日', 'poi_text': '无症状感染者转为确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243540102080372001D25FBF9', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '新港街', 'city': '天津市', 'area_name': '滨海新区', 'township': '新港街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6239533da74a81bad8290c48', 'base_info': '', 'extra_info': '', 'index': 811, 'sort_time': 1647837626, 'track_list': [
+                            {'poi_time_text': '3月20日', 'poi_text': '居住地为天津市滨海新区新港街。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243540102091681520B2565B6', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '大沽街', 'city': '天津市', 'area_name': '滨海新区', 'township': '大沽街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623822f3a74a81bad82907f0', 'base_info': '男，27岁', 'extra_info': '', 'index': 796, 'sort_time': 1647759722, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623701ea51fcc4284c62b7f9', 'base_info': '女，47岁', 'extra_info': '', 'index': 793, 'sort_time': 1647685729, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623701de51fcc4284c62b7f8', 'base_info': '男，37岁', 'extra_info': '', 'index': 792, 'sort_time': 1647685718, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62370175a74a81bad829055a', 'base_info': '男，32岁', 'extra_info': '', 'index': 783, 'sort_time': 1647685612, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6235812dbf037cdddf8ea5dd', 'base_info': '男，53岁', 'extra_info': '', 'index': 762, 'sort_time': 1647587249, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580d2bf037cdddf8ea5d6', 'base_info': '男，46岁', 'extra_info': '', 'index': 755, 'sort_time': 1647587159, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623580babf037cdddf8ea5d4', 'base_info': '女，7岁', 'extra_info': '', 'index': 753, 'sort_time': 1647587134, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319ffbc4ec824d5a0a3020', 'base_info': '男，27岁', 'extra_info': '', 'index': 643, 'sort_time': 1647332984, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319fbfc4ec824d5a0a301d', 'base_info': '男，67岁', 'extra_info': '', 'index': 638, 'sort_time': 1647332924, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b90e8beee42ae1c0b7a8', 'base_info': '男，40岁', 'extra_info': '', 'index': 606, 'sort_time': 1647252998, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b77d8beee42ae1c0b788', 'base_info': '女，53岁', 'extra_info': '', 'index': 578, 'sort_time': 1647252600, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7708beee42ae1c0b787', 'base_info': '女，28岁', 'extra_info': '', 'index': 577, 'sort_time': 1647252586, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7638beee42ae1c0b786', 'base_info': '女，49岁', 'extra_info': '', 'index': 576, 'sort_time': 1647252572, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7478beee42ae1c0b784', 'base_info': '男，27岁', 'extra_info': '', 'index': 574, 'sort_time': 1647252539, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7338beee42ae1c0b783', 'base_info': '女，34岁', 'extra_info': '', 'index': 573, 'sort_time': 1647252523, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2a48beee42ae1c0b7f7', 'base_info': '女，36岁', 'extra_info': '', 'index': 557, 'sort_time': 1647177247, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e2988beee42ae1c0b7f6', 'base_info': '男，57岁', 'extra_info': '', 'index': 556, 'sort_time': 1647177236, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e25b8beee42ae1c0b7f2', 'base_info': '男，28岁', 'extra_info': '', 'index': 552, 'sort_time': 1647177174, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市滨海新区大沽街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243540102121860262026C28F', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '中新生态城', 'city': '天津市', 'area_name': '滨海新区', 'township': '中新天津生态城', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623822e851fcc4284c62bdd3', 'base_info': '男，58岁', 'extra_info': '', 'index': 795, 'sort_time': 1647759710, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市滨海新区中新生态城。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62370150a74a81bad8290559', 'base_info': '男，41岁', 'extra_info': '', 'index': 780, 'sort_time': 1647685576, 'track_list': [
+                            {'poi_time_text': '3月18日', 'poi_text': '居住地为天津市滨海新区中新生态城。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月19日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '623581dcbf037cdddf8ea5eb', 'base_info': '女，31岁', 'extra_info': '', 'index': 775, 'sort_time': 1647587424, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市滨海新区中新生态城。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '20220328224354010212099208272825E0', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '邵公庄街', 'city': '天津市', 'area_name': '红桥区', 'township': '邵公庄街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '623ee9aec7f4333777e76049', 'base_info': '女，43岁', 'extra_info': '', 'index': 901, 'sort_time': 1648203822, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市红桥区邵公庄街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e8bc4ec824d5a0a3011', 'base_info': '男，49岁', 'extra_info': '', 'index': 614, 'sort_time': 1647332614, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市红桥区邵公庄街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243550102120360982425A60B', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '和苑街', 'city': '天津市', 'area_name': '红桥区', 'township': '和苑街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6239532351fcc4284c62c2d6', 'base_info': '', 'extra_info': '', 'index': 809, 'sort_time': 1647837599, 'track_list': [
+                            {'poi_time_text': '3月20日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62358196bf037cdddf8ea5e6', 'base_info': '男，67岁', 'extra_info': '', 'index': 770, 'sort_time': 1647587354, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a044c4ec824d5a0a3025', 'base_info': '女，4岁', 'extra_info': '', 'index': 649, 'sort_time': 1647333057, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231a035c4ec824d5a0a3024', 'base_info': '男，62岁', 'extra_info': '', 'index': 648, 'sort_time': 1647333043, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b8ce8beee42ae1c0b7a3', 'base_info': '女，38岁', 'extra_info': '', 'index': 601, 'sort_time': 1647252932, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b7968beee42ae1c0b78a', 'base_info': '女，9岁', 'extra_info': '', 'index': 580, 'sort_time': 1647252625, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e1ce8beee42ae1c0b7ea', 'base_info': '女，59岁', 'extra_info': '', 'index': 544, 'sort_time': 1647177032, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231e0c98beee42ae1c0b7d9', 'base_info': '女，70岁', 'extra_info': '', 'index': 530, 'sort_time': 1647176771, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3d09c4ec824d5a0a210f', 'base_info': '女，49岁', 'extra_info': '', 'index': 500, 'sort_time': 1646979971, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系集中隔离点筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3bcf86e515c8a2729d5f', 'base_info': '男，51岁', 'extra_info': '', 'index': 488, 'sort_time': 1646979658, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3bc586e515c8a2729d5e', 'base_info': '男，67岁', 'extra_info': '', 'index': 487, 'sort_time': 1646979649, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '622c3b9786e515c8a2729d5d', 'base_info': '男，59岁', 'extra_info': '', 'index': 484, 'sort_time': 1646979602, 'track_list': [
+                            {'poi_time_text': '3月10日', 'poi_text': '居住地为天津市红桥区和苑街。'
+                            },
+                            {'poi_time_text': '3月11日', 'poi_text': '系重点街镇全员核酸筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435501021010102308256B5E', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '广开街', 'city': '天津市', 'area_name': '南开区', 'township': '广开街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62400ad5c7f4333777e761e9', 'base_info': '女，23岁', 'extra_info': '', 'index': 902, 'sort_time': 1648277844, 'track_list': [
+                            {'poi_time_text': '3月24日', 'poi_text': '居住地为天津市南开区广开街。'
+                            },
+                            {'poi_time_text': '3月25日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月26日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435501020917016210266175', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '长虹街', 'city': '天津市', 'area_name': '南开区', 'township': '长虹街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62358145bf037cdddf8ea5e0', 'base_info': '女，80岁', 'extra_info': '', 'index': 764, 'sort_time': 1647587274, 'track_list': [
+                            {'poi_time_text': '3月17日', 'poi_text': '居住地为天津市南开区长虹街。'
+                            },
+                            {'poi_time_text': '3月18日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。诊断为新冠肺炎确诊病例（普通型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '202203282243550101980671611626C537', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '咸水沽镇', 'city': '天津市', 'area_name': '津南区', 'township': '咸水沽镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '62349652a74a81bad8290001', 'base_info': '女，32岁', 'extra_info': '', 'index': 740, 'sort_time': 1647527117, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61fa5d19af4a23c7e7936403', 'base_info': '男，43岁', 'extra_info': '', 'index': 367, 'sort_time': 1643279377, 'track_list': [
+                            {'poi_time_text': '1月24日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月25日-30日', 'poi_text': '在集中隔离点。'
+                            },
+                            {'poi_time_text': '1月30日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61f26d5daf4a23c7e793601d', 'base_info': '男，10岁', 'extra_info': '', 'index': 333, 'sort_time': 1642600232, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月21日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61efff0748966cf28f309c42', 'base_info': '男，36岁', 'extra_info': '', 'index': 327, 'sort_time': 1642513537, 'track_list': [
+                            {'poi_time_text': '1月12日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月13日-14日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月20日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性，后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61effe6048966cf28f309c3b', 'base_info': '男，42岁', 'extra_info': '', 'index': 316, 'sort_time': 1642513369, 'track_list': [
+                            {'poi_time_text': '1月18日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月19日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61effdf648966cf28f309c39', 'base_info': '男，64岁', 'extra_info': '', 'index': 313, 'sort_time': 1642428897, 'track_list': [
+                            {'poi_time_text': '1月12日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月13日-14日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月18日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性，后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ec1039af4a23c7e7935e25', 'base_info': '女，71岁', 'extra_info': '', 'index': 307, 'sort_time': 1642428593, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月18日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ec1000af4a23c7e7935e23', 'base_info': '女，29岁', 'extra_info': '', 'index': 303, 'sort_time': 1642428535, 'track_list': [
+                            {'poi_time_text': '1月9日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月17日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ec0f31af4a23c7e7935e1d', 'base_info': '男，36岁', 'extra_info': '', 'index': 295, 'sort_time': 1642262478, 'track_list': [
+                            {'poi_time_text': '1月11日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '曾到双港派出所。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '1时至8时20分曾到双港实验小学。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '8时25分曾到翠港园北门早点摊。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月17日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ec0ef7af4a23c7e7935e1c', 'base_info': '男，30岁', 'extra_info': '', 'index': 293, 'sort_time': 1642262476, 'track_list': [
+                            {'poi_time_text': '1月11日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '曾到双港派出所。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '曾到天津市公安局津南分局。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '曾到双港派出所。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb44d948966cf28f309901', 'base_info': '女，35岁', 'extra_info': '', 'index': 291, 'sort_time': 1642262474, 'track_list': [
+                            {'poi_time_text': '1月11日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月12日-14日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb44c148966cf28f309900', 'base_info': '女，55岁', 'extra_info': '', 'index': 290, 'sort_time': 1642262473, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '17时至17时53分曾到快乐人家副食超市。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '14时至14时09分曾到快乐人家副食超市。'
+                            },
+                            {'poi_time_text': '1月13日-15日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb42c8af4a23c7e7935c8c', 'base_info': '男，17岁', 'extra_info': '', 'index': 288, 'sort_time': 1642262471, 'track_list': [
+                            {'poi_time_text': '1月11日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb42a948966cf28f3098fe', 'base_info': '男，47岁', 'extra_info': '', 'index': 287, 'sort_time': 1642262470, 'track_list': [
+                            {'poi_time_text': '1月11日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月12日-13日', 'poi_text': '曾到双港派出所。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb425c48966cf28f3098fd', 'base_info': '男，3岁', 'extra_info': '', 'index': 286, 'sort_time': 1642262469, 'track_list': [
+                            {'poi_time_text': '1月2日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月3日-4日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月5日', 'poi_text': '17时至19时曾到津南区吾悦广场。'
+                            },
+                            {'poi_time_text': '1月6日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '11时至12时44分曾到儿童医院（马场院区）。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb423148966cf28f3098fc', 'base_info': '女，37岁', 'extra_info': '', 'index': 284, 'sort_time': 1642262467, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-13日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '采集咽拭子，经检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61eb4215af4a23c7e7935c8a', 'base_info': '女，62岁', 'extra_info': '', 'index': 283, 'sort_time': 1642262466, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日-14日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea0a9248966cf28f309838', 'base_info': '女，48岁', 'extra_info': '', 'index': 269, 'sort_time': 1642262452, 'track_list': [
+                            {'poi_time_text': '1月4日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月5日', 'poi_text': '9时15分至13时30分曾到双港镇善和园。'
+                            },
+                            {'poi_time_text': '1月5日', 'poi_text': '14时至17时曾到天津市瑞澳财务咨询服务中心。'
+                            },
+                            {'poi_time_text': '1月6日', 'poi_text': '10时15分至10时35分曾乘坐地铁至景荷道站。'
+                            },
+                            {'poi_time_text': '1月6日', 'poi_text': '10时40分至21时曾到 双港镇善和园。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '6时45分至7时15分曾乘坐地铁至 景荷道站。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '9时至11时曾到天津市第二殡仪馆。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '9时至11时曾到天津寝园墓地。'
+                            },
+                            {'poi_time_text': '1月8日-15日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '被转运至定点医院，集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea0a61af4a23c7e7935b11', 'base_info': '女，46岁', 'extra_info': '', 'index': 267, 'sort_time': 1642262450, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日-15日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '被转运至定点医院，采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea0922af4a23c7e7935b0f', 'base_info': '男，9岁', 'extra_info': '', 'index': 259, 'sort_time': 1642262442, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea08d648966cf28f30982f', 'base_info': '女，29岁', 'extra_info': '', 'index': 256, 'sort_time': 1642262439, 'track_list': [
+                            {'poi_time_text': '1月6日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '17时曾到小站医院发热门诊。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '17时20分曾到小站医院发热门诊。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '17时30分至18时曾都小站镇物美超市。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '16时至18时曾到津南医院急诊。'
+                            },
+                            {'poi_time_text': '1月12日-15日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '被转运至定点医院，1月16日采集咽拭子，经检测中心检测，结果呈阳性。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea089eaf4a23c7e7935b0c', 'base_info': '女，6岁', 'extra_info': '', 'index': 254, 'sort_time': 1642262437, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea0775af4a23c7e7935b06', 'base_info': '女，16岁', 'extra_info': '', 'index': 244, 'sort_time': 1642262427, 'track_list': [
+                            {'poi_time_text': '1月5日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月6日-13日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea014148966cf28f309826', 'base_info': '男，38岁', 'extra_info': '', 'index': 238, 'sort_time': 1642262421, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-14日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea0124af4a23c7e7935b04', 'base_info': '男，50岁', 'extra_info': '', 'index': 237, 'sort_time': 1642262420, 'track_list': [
+                            {'poi_time_text': '1月10日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月11日-14日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea010caf4a23c7e7935b03', 'base_info': '女，39岁', 'extra_info': '', 'index': 236, 'sort_time': 1642262419, 'track_list': [
+                            {'poi_time_text': '1月9日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61ea00ca48966cf28f309825', 'base_info': '男，9岁', 'extra_info': '', 'index': 234, 'sort_time': 1642262417, 'track_list': [
+                            {'poi_time_text': '1月6日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '7时45分至16时50分咸水沽第七小学。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '17时15分至20时25分鹏旭托管班（紫江馨苑）。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '16时至16时20分丰达园内小卖铺。'
+                            },
+                            {'poi_time_text': '1月9日-12日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '19时至次日19时津南医院发热门诊。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e8dcbf756fee9562bc7223', 'base_info': '男，32岁', 'extra_info': '', 'index': 233, 'sort_time': 1642262416, 'track_list': [
+                            {'poi_time_text': '1月9日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月10日-12日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月13日-14日', 'poi_text': '19时至次日19时在津南医院发热门诊。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月16日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e8bee7756fee9562bc71ee', 'base_info': '女，14岁', 'extra_info': '', 'index': 201, 'sort_time': 1642176017, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-14日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e77ea6756fee9562bc712d', 'base_info': '女，9岁', 'extra_info': '', 'index': 187, 'sort_time': 1642176003, 'track_list': [
+                            {'poi_time_text': '1月3日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月4日-7日', 'poi_text': '7时30分至18时曾到咸水沽第七小学。'
+                            },
+                            {'poi_time_text': '1月8日-13日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月15日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e768c8756fee9562bc70ab', 'base_info': '女，21岁', 'extra_info': '', 'index': 179, 'sort_time': 1642089634, 'track_list': [
+                            {'poi_time_text': '1月5日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月6日', 'poi_text': '15时51分曾到金才园内超市。'
+                            },
+                            {'poi_time_text': '1月6日', 'poi_text': '17时02分曾到金才园内超市。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '14时43分至15时44分曾乘坐地铁（咸水沽西-天津宾馆）-（下瓦房）。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '15时55分至21时35分曾到胡大饭店。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '21时46分至23时18分曾乘坐地铁（下瓦房-东沽路）。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '6时29分至7时58分曾乘坐地铁（咸水沽西-长虹公园）-（芥园西道）。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '9时30分至11时曾到大港国祥凯旋街火锅炒菜店。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '13时58分曾到金锐酒行。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '14时10分曾到富都超市。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '12时至21时20分曾到胡大饭店。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '21时30分至22时曾到下瓦房地铁站C口。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '22时至23时03分曾到地铁1号线（下瓦房-东沽路）。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '23时51分曾到金才园内超市。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '23时55分曾到金才园内超市。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '13时50分至13时56分曾到金才园内超市。'
+                            },
+                            {'poi_time_text': '1月10日-12日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e768aa756fee9562bc70aa', 'base_info': '女，7岁', 'extra_info': '', 'index': 178, 'sort_time': 1642089633, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-12日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e7683e756fee9562bc70a7', 'base_info': '男，28岁', 'extra_info': '', 'index': 175, 'sort_time': 1642089630, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '曾到咸水沽镇同泽园内超市。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '曾到金泽源温泉大浴场。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e7678e756fee9562bc70a4', 'base_info': '男，41岁', 'extra_info': '', 'index': 172, 'sort_time': 1642089627, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-10日', 'poi_text': '曾到金泽源温泉大浴场。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e76768756fee9562bc70a3', 'base_info': '男，40岁', 'extra_info': '', 'index': 171, 'sort_time': 1642089626, 'track_list': [
+                            {'poi_time_text': '1月9日', 'poi_text': '居住地天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e76701756fee9562bc70a2', 'base_info': '男，35岁', 'extra_info': '', 'index': 170, 'sort_time': 1642089625, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '9时至9时20分曾到贝多分少儿培训学校（宝业馨苑）。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '9时54分至10时曾到益华里小区菜市场。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '21时14分曾到鑫洋园内超市。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（普通型） 。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e766dc756fee9562bc70a1', 'base_info': '男，9岁', 'extra_info': '', 'index': 169, 'sort_time': 1642089624, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '后经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e61113af4a23c7e7935597', 'base_info': '女，33岁', 'extra_info': '', 'index': 159, 'sort_time': 1642089614, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '15时30分至15时36分咸水沽镇丰达园旁水果摊。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '15时41分至15时50分在丰达园内超市。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '13时30分至14时在丰达园内超市。'
+                            },
+                            {'poi_time_text': '1月10日-12日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '诊断为新冠肺炎确诊病例。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e6107eaf4a23c7e7935593', 'base_info': '男，13岁', 'extra_info': '', 'index': 154, 'sort_time': 1642089609, 'track_list': [
+                            {'poi_time_text': '1月6日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '7时30分至18时在咸水沽三中。'
+                            },
+                            {'poi_time_text': '1月8日-9日', 'poi_text': '于津南区津九轩春福里居家无外出。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '经市级专家组判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e6106aaf4a23c7e7935592', 'base_info': '女，41岁', 'extra_info': '', 'index': 153, 'sort_time': 1642089608, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日-10日', 'poi_text': '曾到金泽源温泉大浴场。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '经市级专家组判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e6103daf4a23c7e7935591', 'base_info': '女，27岁', 'extra_info': '', 'index': 152, 'sort_time': 1642089607, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '曾到金泽源温泉大浴场。'
+                            },
+                            {'poi_time_text': '1月9日-10日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '经市级专家组判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e6102baf4a23c7e7935590', 'base_info': '女，41岁', 'extra_info': '', 'index': 151, 'sort_time': 1642089606, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日-10日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '经市级专家组判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e6101848966cf28f309494', 'base_info': '男，9岁', 'extra_info': '', 'index': 150, 'sort_time': 1642089605, 'track_list': [
+                            {'poi_time_text': '1月6日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '7时30分至17时10分在咸水沽七小。'
+                            },
+                            {'poi_time_text': '1月8日-10日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月14日', 'poi_text': '经市级专家组判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60b35af4a23c7e793558b', 'base_info': '男，35岁', 'extra_info': '', 'index': 144, 'sort_time': 1642003234, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日-9日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为本土确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60b1f48966cf28f309490', 'base_info': '女，40岁', 'extra_info': '', 'index': 143, 'sort_time': 1642003233, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日-9日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为本土确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60b0aaf4a23c7e793558a', 'base_info': '男，40岁', 'extra_info': '', 'index': 142, 'sort_time': 1642003232, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '9时至10时到紫江路市场。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为本土确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60ae548966cf28f30948f', 'base_info': '男，39岁', 'extra_info': '', 'index': 141, 'sort_time': 1642003231, 'track_list': [
+                            {'poi_time_text': '1月8日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为本土确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60acfaf4a23c7e7935589', 'base_info': '男，36岁', 'extra_info': '', 'index': 140, 'sort_time': 1642003230, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日-9日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e60a0a48966cf28f30948d', 'base_info': '男，6岁', 'extra_info': '', 'index': 137, 'sort_time': 1642003227, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '曾到过小站医院。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '6时30分至7时曾到过小站医院站。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '7时30分至9时25分曾到过众惠里社区卫生服务站。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '9时35分至9时45分曾到君来悦副食自选店（南华路与丰收路交口）。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '9时55分至23时众惠里社区卫生服务站。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '23时被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e5fcd148966cf28f309484', 'base_info': '男，9岁', 'extra_info': '', 'index': 125, 'sort_time': 1642003215, 'track_list': [
+                            {'poi_time_text': '1月5日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月6日-7日', 'poi_text': '曾到过咸水沽第七小学。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '居家无外出。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '经市级专家组判定为确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e5fc97af4a23c7e7935581', 'base_info': '女，46岁', 'extra_info': '', 'index': 124, 'sort_time': 1642003214, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '7时30分至8时30分曾到紫江路菜市场。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '8时40分至9时曾到永和堂大药房（韩城桥店）。'
+                            },
+                            {'poi_time_text': '1月9日-11日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月12日', 'poi_text': '被转运至定点医院。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e4bdee6a5cfb51d9bcad70', 'base_info': '男，42岁', 'extra_info': '', 'index': 114, 'sort_time': 1642003204, 'track_list': [
+                            {'poi_time_text': '1月6日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月7日', 'poi_text': '7时30分至17时10分曾到过三鑫菜市场。'
+                            },
+                            {'poi_time_text': '1月8日-10日', 'poi_text': '居家隔离。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '被转运至集中隔离点。'
+                            },
+                            {'poi_time_text': '1月13日', 'poi_text': '后经市级专家组判定为确诊病例（普通型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e178d048966cf28f308f06', 'base_info': '男，11岁', 'extra_info': '', 'index': 67, 'sort_time': 1641907274, 'track_list': [
+                            {'poi_time_text': '12月19日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '12月20日', 'poi_text': '18时至20时10分曾到丰达园。'
+                            },
+                            {'poi_time_text': '12月20日-24日', 'poi_text': '7时30分至17时30分曾到咸水沽第四小学。'
+                            },
+                            {'poi_time_text': '12月26日', 'poi_text': '12时30分至16时曾到玩美童画少儿美术学校（咸水沽镇坤元路津南新城延岛商业街）。'
+                            },
+                            {'poi_time_text': '12月26日', 'poi_text': '16时至20时曾到津南区汀芳花园。'
+                            },
+                            {'poi_time_text': '12月27日', 'poi_text': '18时至20时10分曾到丰达园。'
+                            },
+                            {'poi_time_text': '12月27日-31日', 'poi_text': '7时30分至17时30分曾到咸水沽第四小学。'
+                            },
+                            {'poi_time_text': '12月31日', 'poi_text': '20时30分至22时30分曾到吾悦广场华润万家。'
+                            },
+                            {'poi_time_text': '1月1日', 'poi_text': '11时30分至13时曾到吾悦广场萨莉亚。'
+                            },
+                            {'poi_time_text': '1月1日', 'poi_text': '13时至15时40分曾到八里台镇香港建鑫城电影院。'
+                            },
+                            {'poi_time_text': '1月1日', 'poi_text': '15时40分至21时曾到津南区汀芳花园。'
+                            },
+                            {'poi_time_text': '1月2日', 'poi_text': '12时30分至16时曾到玩美童画少儿美术学校（咸水沽镇坤元路津南新城延岛商业街）。'
+                            },
+                            {'poi_time_text': '1月2日', 'poi_text': '16时至20时曾到津南区汀芳花园。'
+                            },
+                            {'poi_time_text': '1月4日-7日', 'poi_text': '7时30分至17时30分曾到咸水沽第四小学。'
+                            },
+                            {'poi_time_text': '1月2日', 'poi_text': '16时至16时20分曾到丰尚造型理发（咸水沽镇团结路）。'
+                            },
+                            {'poi_time_text': '1月2日', 'poi_text': '16时20分至20时30分曾到美珍家韩国料理（新兴南路盛禧园5-33底商）。'
+                            },
+                            {'poi_time_text': '1月2日', 'poi_text': '20时30分至22时30分曾到华润万家星光灿烂KTV（津沽路156号）。'
+                            },
+                            {'poi_time_text': '1月3日', 'poi_text': '11时29分至17时20分曾乘坐公交车（诚信里-育才里）。'
+                            },
+                            {'poi_time_text': '1月3日', 'poi_text': '18时至20时10分曾到丰达园。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '后经市级专家组判定为本土新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e178bc48966cf28f308f05', 'base_info': '女，59岁', 'extra_info': '', 'index': 65, 'sort_time': 1641907253, 'track_list': [
+                            {'poi_time_text': '12月26日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '12月27日-30日', 'poi_text': '7时20分至7时55分曾到咸水沽七小。'
+                            },
+                            {'poi_time_text': '12月27日-30日', 'poi_text': '7时55分至17时曾到南华路。'
+                            },
+                            {'poi_time_text': '12月31日-1月3日', 'poi_text': '7时55分至17时曾到南华路。'
+                            },
+                            {'poi_time_text': '12月31日-1月3日', 'poi_text': '17时20分至17时40分曾到咸水沽二中旁垃圾收购站。'
+                            },
+                            {'poi_time_text': '1月4日-7日', 'poi_text': '7时20分至7时55分曾到咸水沽七小。'
+                            },
+                            {'poi_time_text': '1月4日-7日', 'poi_text': '7时55分至17时曾到南华路。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '后经市级专家组判定为本土新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e177f3af4a23c7e79350a2', 'base_info': '男，70岁', 'extra_info': '', 'index': 52, 'sort_time': 1641907054, 'track_list': [
+                            {'poi_time_text': '1月7日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '7时至8时曾到咸水沽日月星洗浴。'
+                            },
+                            {'poi_time_text': '1月10日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '后经市级专家判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61e177ddaf4a23c7e79350a1', 'base_info': '男，41岁', 'extra_info': '', 'index': 51, 'sort_time': 1641907027, 'track_list': [
+                            {'poi_time_text': '12月23日', 'poi_text': '居住地为津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '12月28日', 'poi_text': '15时至18时曾到源祥鑫超市。'
+                            },
+                            {'poi_time_text': '12月30日', 'poi_text': '10时30至11时30分曾到同泽园标榜造型。'
+                            },
+                            {'poi_time_text': '1月8日', 'poi_text': '10时至11时曾到源祥鑫超市。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '10时曾到咸水沽临时接种点。'
+                            },
+                            {'poi_time_text': '12月24日-1月10日', 'poi_text': '曾到金泽源温泉大浴场（津南区红旗北路同泽园小区）。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '后经市级专家判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '61df887baf4a23c7e7934ddd', 'base_info': '女，9岁', 'extra_info': '', 'index': 37, 'sort_time': 1641862801, 'track_list': [
+                            {'poi_time_text': '12月25日', 'poi_text': '居住地为天津市津南区咸水沽镇。'
+                            },
+                            {'poi_time_text': '12月26日', 'poi_text': '11时30分至14时曾到咸水沽供销商厦。'
+                            },
+                            {'poi_time_text': '1月1日', 'poi_text': '10时至15时曾到吾悦广场比格披萨。'
+                            },
+                            {'poi_time_text': '1月3日', 'poi_text': '11时至12时30分曾到吉胜克（津沽大街店）。'
+                            },
+                            {'poi_time_text': '1月3日', 'poi_text': '16时至18时曾到咸水沽供销商厦。'
+                            },
+                            {'poi_time_text': '1月9日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '1月11日', 'poi_text': '后经市级专家判定为本土确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435601001502807420256612', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '常州道街', 'city': '天津市', 'area_name': '河东区', 'township': '常州道街道', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6239533351fcc4284c62c2d9', 'base_info': '', 'extra_info': '', 'index': 810, 'sort_time': 1647837614, 'track_list': [
+                            {'poi_time_text': '3月19日', 'poi_text': '居住地为天津市河东区常州道街。'
+                            },
+                            {'poi_time_text': '3月20日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月21日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '20220328224356010209088020202612FC', 'status': 'success'
+    },
+    {'data': {'data': {'poi_name': '大钟庄镇', 'city': '天津市', 'area_name': '宝坻区', 'township': '大钟庄镇', 'track_type': 1, 'risk_level': 0, 'patient_list': [
+                    {'patient_id': '6234964551fcc4284c62b17e', 'base_info': '男，66岁', 'extra_info': '', 'index': 739, 'sort_time': 1647527104, 'track_list': [
+                            {'poi_time_text': '3月16日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月17日', 'poi_text': '系管控人员筛查发现，采集咽拭子，经检测中心检测，结果呈阳性。为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319fc9c4ec824d5a0a301e', 'base_info': '男，7岁', 'extra_info': '', 'index': 639, 'sort_time': 1647332935, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319fb486e515c8a272a940', 'base_info': '男，39岁', 'extra_info': '', 'index': 637, 'sort_time': 1647332913, 'track_list': [
+                            {'poi_time_text': '3月14日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '62319e6dc4ec824d5a0a3010', 'base_info': '女，8岁', 'extra_info': '', 'index': 613, 'sort_time': 1647332585, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月15日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b78a8beee42ae1c0b789', 'base_info': '女，70岁', 'extra_info': '', 'index': 579, 'sort_time': 1647252613, 'track_list': [
+                            {'poi_time_text': '3月13日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    },
+                    {'patient_id': '6231b6ac8beee42ae1c0b77a', 'base_info': '女，16岁', 'extra_info': '', 'index': 566, 'sort_time': 1647252382, 'track_list': [
+                            {'poi_time_text': '3月12日', 'poi_text': '居住地为天津市宝坻区大钟庄镇。'
+                            },
+                            {'poi_time_text': '3月13日', 'poi_text': '采集咽拭子，经检测中心检测，结果呈阳性。'
+                            },
+                            {'poi_time_text': '3月14日', 'poi_text': '诊断为新冠肺炎确诊病例（轻型）。'
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 'logid': '2022032822435601021204403922261FC4', 'status': 'success'
+    }
+]

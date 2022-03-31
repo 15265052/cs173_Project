@@ -1,0 +1,36 @@
+{'香港': {'nowConfirm': 141, 'confirmAdd': 1288, 'dead': 319, 'heal': 828, 'zero': 0
+    }, '宁夏': {'dead': 0, 'heal': 0, 'zero': 141, 'nowConfirm': 0, 'confirmAdd': 0
+    }, '新疆': {'zero': 58, 'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0
+    }, '浙江': {'nowConfirm': 7, 'confirmAdd': 7, 'dead': 0, 'heal': 0, 'zero': 0
+    }, '澳门': {'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 25
+    }, '甘肃': {'nowConfirm': -27, 'confirmAdd': 1, 'dead': 0, 'heal': 28, 'zero': 0
+    }, '辽宁': {'nowConfirm': -19, 'confirmAdd': 12, 'dead': 0, 'heal': 31, 'zero': 0
+    }, '北京': {'nowConfirm': -11, 'confirmAdd': 2, 'dead': 0, 'heal': 13, 'zero': 0
+    }, '山西': {'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 2, 'nowConfirm': 0
+    }, '江苏': {'nowConfirm': -5, 'confirmAdd': 3, 'dead': 0, 'heal': 8, 'zero': 0
+    }, '海南': {'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 23
+    }, '福建': {'dead': 0, 'heal': 12, 'zero': 0, 'nowConfirm': 7, 'confirmAdd': 19
+    }, '吉林': {'nowConfirm': 411, 'confirmAdd': 1096, 'dead': 0, 'heal': 685, 'zero': 0
+    }, '天津': {'confirmAdd': 10, 'dead': 0, 'heal': 13, 'zero': 0, 'nowConfirm': -3
+    }, '湖南': {'zero': 1, 'nowConfirm': 1, 'confirmAdd': 3, 'dead': 0, 'heal': 2
+    }, '安徽': {'nowConfirm': 4, 'confirmAdd': 4, 'dead': 0, 'heal': 0, 'zero': 0
+    }, '重庆': {'heal': 8, 'zero': 2, 'nowConfirm': -8, 'confirmAdd': 0, 'dead': 0
+    }, '陕西': {'nowConfirm': -36, 'confirmAdd': 4, 'dead': 0, 'heal': 40, 'zero': 0
+    }, '山东': {'dead': 0, 'heal': 83, 'zero': 0, 'nowConfirm': -73, 'confirmAdd': 10
+    }, '广西': {'nowConfirm': -2, 'confirmAdd': 15, 'dead': 0, 'heal': 17, 'zero': 0
+    }, '河北': {'nowConfirm': -1, 'confirmAdd': 7, 'dead': 0, 'heal': 8, 'zero': 0
+    }, '西藏': {'zero': 775, 'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0
+    }, '黑龙江': {'heal': 20, 'zero': 0, 'nowConfirm': -9, 'confirmAdd': 11, 'dead': 0
+    }, '广东': {'heal': 60, 'zero': 0, 'nowConfirm': -50, 'confirmAdd': 10, 'dead': 0
+    }, '河南': {'zero': 0, 'nowConfirm': 8, 'confirmAdd': 10, 'dead': 0, 'heal': 2
+    }, '湖北': {'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 8
+    }, '青海': {'nowConfirm': 0, 'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 11
+    }, '内蒙古': {'confirmAdd': 0, 'dead': 0, 'heal': 0, 'zero': 2, 'nowConfirm': 0
+    }, '四川': {'nowConfirm': -28, 'confirmAdd': 12, 'dead': 0, 'heal': 40, 'zero': 0
+    }, '贵州': {'nowConfirm': -2, 'confirmAdd': 0, 'dead': 0, 'heal': 2, 'zero': 2
+    }, '上海': {'nowConfirm': 23, 'confirmAdd': 60, 'dead': 0, 'heal': 37, 'zero': 0
+    }, '云南': {'confirmAdd': 1, 'dead': 0, 'heal': 6, 'zero': 0, 'nowConfirm': -5
+    }, '台湾': {'heal': 0, 'zero': 0, 'nowConfirm': 330, 'confirmAdd': 330, 'dead': 0
+    }, '江西': {'dead': 0, 'heal': 7, 'zero': 0, 'nowConfirm': -6, 'confirmAdd': 1
+    }
+}
