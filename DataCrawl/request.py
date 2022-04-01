@@ -92,5 +92,5 @@ def get_all_city_id():
     return re.json()
 
 def get_all_china_daily():
-    url = "https://file1.dxycdn.com/2022/0330/301/8632025056402530453-135.json?t=27477150"
+    url = "https://file1.dxycdn.com/2022/0401/864/5513283532651070453-135.json?t=27479922"
     return requests.get(url)
