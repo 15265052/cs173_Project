@@ -16,14 +16,14 @@ queue = []
 
 def get_from_apis():
     # get china daily data
-    china_daily_data = get_all_china_daily()
-    file_name = "china_daily_data.json"
-    open(data_dir_path + file_name, 'wb').write(china_daily_data.content)
-
-    # # get all provinces latest data
-    china_all_provinces_daily_data = request_all_provinces_daily(get_all_province_names())
-    file_name = "china_all_provinces_daily_data.json"
-    write_file(data_dir_path + file_name, china_all_provinces_daily_data)
+    # china_daily_data = get_all_china_daily()
+    # file_name = "china_daily_data.json"
+    # open(data_dir_path + file_name, 'wb').write(china_daily_data.content)
+    #
+    # # # get all provinces latest data
+    # china_all_provinces_daily_data = request_all_provinces_daily(get_all_province_names())
+    # file_name = "china_all_provinces_daily_data.json"
+    # write_file(data_dir_path + file_name, china_all_provinces_daily_data)
 
     request_all_confirmed_specific_info(get_all_city_codes())
     file_name = "all_confirmed_specific_info.json"
@@ -51,7 +51,8 @@ def request_all_confirmed_specific_info(city_codes):
         print("done a task, now task sum: " + str(task_sum))
         if future.result() is None:
             return
-        d = future.result()['data']['data']
+        d = future.result()[0]['data']['data']
+        d['time'] = future.result()[1]
         if len(d['patient_list']) != 0:
             queue.append(d)
 
@@ -62,7 +63,8 @@ def request_all_confirmed_specific_info(city_codes):
             if not (di['local_id'] == 0 or di['poi'] == ""):
                 try:
                     task_sum += 1
-                    future = pool.submit(get_covid_confirmed_specific_info, di['poi'])
+                    dt = time.strftime('%Y:%m:%d %H:%M:%S', time.localtime(di['poi_time']))
+                    future = pool.submit(get_covid_confirmed_specific_info, di['poi'], dt)
                     future.add_done_callback(add_to_queue)
                 except:
                     continue

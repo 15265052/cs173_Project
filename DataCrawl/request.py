@@ -76,14 +76,14 @@ def get_covid_tracks(city_code):
     return re.json()
 
 
-def get_covid_confirmed_specific_info(poi):
+def get_covid_confirmed_specific_info(poi, dt):
     try:
         x, y = poi.split(',')
     except:
         return None
     url = TIKTOK_HOST + "poi/?poi=" + x + "%2C" + y
     re = requests.get(url)
-    return re.json()
+    return (re.json(), dt)
 
 
 def get_all_city_id():
