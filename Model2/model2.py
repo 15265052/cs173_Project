@@ -51,7 +51,7 @@ def fit(x, y):
     axes[0].scatter(t, China_y, label="实际确诊患者数量")
     axes[0].plot(future_t, logistic_increase(future_t, *lpopt), 'b--', label='预测患者数量曲线')
     plt.xlabel('time')
-    plt.ylabel('患者数量')
+
     print('\n** Based on Logistic Fit**\n')
     print('\tR^2:', logisticr2)
     print('\tDoubling Time (during middle of growth): ', round(doubletime_l, 2), '(±',
@@ -75,7 +75,7 @@ def fit(x, y):
     axes[1].scatter(t, China_y, label="实际确诊患者数量")
     axes[1].plot(future_t, exponential(future_t, *epopt), 'r--', label='预测患者数量曲线')
     plt.xlabel('time')
-    plt.ylabel('患者数量')
+
     print('\n** Based on Exponential Fit **\n')
     print('\tR^2:', expr2)
     print('\tDoubling Time (represents overall growth): ', round(edoubletime, 2), '(±',
