@@ -2,3 +2,4 @@ DataCrawl/RawData
 record.txt
 Model_1/covid_1
 Model3/cc.zh.300.bin.gz.download
+Model3/*.json
