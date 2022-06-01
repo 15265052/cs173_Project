@@ -29,16 +29,15 @@ def get_global_all():
 
 
 def get_one_country_all_daily():
-    url = TENCENT_HOST + "list?modules=chinaDayList"
+    url = TENCENT_HOST + "query/inner/publish/modules/list?modules=chinaDayList"
     re = requests.get(url)
     return re.json()
 
 
 def get_one_country_add_daily():
-    url = TENCENT_HOST + "list?modules=chinaDayAddList"
+    url = TENCENT_HOST + "query/inner/publish/modules/list?modules=chinaDayAddList"
     re = requests.get(url)
     return re.json()
-
 
 
 def get_one_country_all_provinces_daily(country_code):
@@ -47,14 +46,14 @@ def get_one_country_all_provinces_daily(country_code):
     return re.json()
 
 
-# def get_one_country_one_province_daily(country_code, province_code):
-#     url = LEAFCODER_HOST + "/api/provinces/" + country_code + "/" + province_code + "/daily/"
-#     re = requests.get(url)
-#     return re.json()
+def get_one_country_one_province_daily(province_name):
+    url = TENCENT_HOST + "query/pubished/daily/list?province="+province_name
+    re = requests.get(url)
+    return re.json()
 
 
 def get_one_country_one_province_latest():
-    url = TENCENT_HOST + "list?modules=provinceCompare"
+    url = TENCENT_HOST + "query/inner/publish/modules/list?modules=provinceCompare"
     re = requests.get(url)
     return re.json()
 
@@ -71,14 +70,27 @@ def get_covid_related_news(page=1, num=10):
     return re.json()
 
 
-def get_covid_tracks(local_id):
-    url = TIKTOK_HOST + "district_stat/?local_id=" + local_id
+def get_covid_tracks(city_code):
+    url = TIKTOK_HOST + "track_list/?city_code=" + city_code
     re = requests.get(url)
     return re.json()
 
 
-def get_covid_confirmed_specific_info(poi):
-    x, y = poi.split(',')
-    url = TIKTOK_HOST + "poi/?poi=" + x +"%2C" + y
+def get_covid_confirmed_specific_info(poi, dt):
+    try:
+        x, y = poi.split(',')
+    except:
+        return None
+    url = TIKTOK_HOST + "poi/?poi=" + x + "%2C" + y
+    re = requests.get(url)
+    return (re.json(), dt)
+
+
+def get_all_city_id():
+    url = TIKTOK_HOST + "poi_brief/?start_time=0"
     re = requests.get(url)
     return re.json()
+
+def get_all_china_daily():
+    url = "https://file1.dxycdn.com/2022/0401/864/5513283532651070453-135.json?t=27479922"
+    return requests.get(url)
