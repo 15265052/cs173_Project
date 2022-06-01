@@ -5,12 +5,12 @@ import json
 import pandas as pd
 
 def write_file(file_path, content, mode="w"):
-    with open(file_path, mode) as f:
+    with open(file_path, mode, encoding='utf-8') as f:
         f.write(str(content))
 
 
 def read_json(file_path):
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding='utf-8') as f:
         data = json.loads(f.read().replace("\"", "").replace("\'", "\""))
         return data
 

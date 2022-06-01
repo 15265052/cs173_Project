@@ -55,6 +55,7 @@ def request_all_confirmed_specific_info(city_codes):
         d['time'] = future.result()[1]
         if len(d['patient_list']) != 0:
             queue.append(d)
+            print('now num of results: ' + str(len(queue)))
 
     for city_code in city_codes:
         print("dealing with city: " + city_code)
@@ -70,7 +71,7 @@ def request_all_confirmed_specific_info(city_codes):
                     continue
         time.sleep(0.1)
         print("task sum: " + str(task_sum))
-    pool.shutdown(wait=False)
+    pool.shutdown(wait=True)
 
 
 def request_all_provinces_daily(province_names):
